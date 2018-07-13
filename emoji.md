@@ -2,6 +2,238 @@ Emoji表情
 ======
 鼠标悬停在表情上，即可显示emoji表情的符号码,将对应符号码输入你的markdown文本即可显示emoji表情。如`:blush:`，显示:blush:
 
+##github
+
+:art:
+Improving structure / format of the code.
+改进代码的结构/格式
+
+:zap:
+Improving performance.
+提高性能
+
+:fire:
+Removing code or files.
+删除代码或文件
+
+:bug:
+Fixing a bug.
+修复错误
+
+:ambulance:
+Critical hotfix.
+关键修补程序
+
+:sparkles:
+Introducing new features.
+引入新特性
+
+:memo:
+Writing docs.
+编写文档
+
+:rocket:
+Deploying stuff.
+部署材料
+
+:lipstick:
+Updating the UI and style files.
+更新UI和样式文件
+
+:tada:
+Initial commit.
+初始提交
+
+:white_check_mark:
+Adding tests.
+添加测试
+
+:lock:
+Fixing security issues.
+解决安全问题
+
+:apple:
+Fixing something on macOS.
+在MaOS上修复一些东西
+
+:penguin:
+Fixing something on Linux.
+在Linux上修复一些东西
+
+:checkered_flag:
+Fixing something on Windows.
+在windows上修复一些东西
+
+:robot:
+Fixing something on Android.
+在Android上修复一些东西
+
+:green_apple:
+Fixing something on iOS.
+在iOS上安装一些东西
+
+:bookmark:
+Releasing / Version tags.
+发布/版本标签
+
+:rotating_light:
+Removing linter warnings.
+删除衬垫警告
+
+:construction:
+Work in progress.
+正在进行中的工作
+
+:green_heart:
+Fixing CI Build.
+固定CI构建
+
+:arrow_down:
+Downgrading dependencies.
+降级依赖性
+
+:arrow_up:
+Upgrading dependencies.
+升级依赖项
+
+:pushpin:
+Pinning dependencies to specific versions.
+将依赖项绑定到特定版本
+
+:construction_worker:
+Adding CI build system.
+添加CI构建系统
+
+:chart_with_upwards_trend:
+Adding analytics or tracking code.
+添加分析或跟踪代码
+
+:recycle:
+Refactoring code.
+重构代码
+
+:heavy_minus_sign:
+Removing a dependency.
+移除依赖项
+
+:whale:
+Work about Docker.
+关于Docker
+
+:heavy_plus_sign:
+Adding a dependency.
+添加依赖项
+
+:wrench:
+Changing configuration files.
+更改配置文件
+
+:globe_with_meridians:
+Internationalization and localization.
+国际化与本土化
+
+:pencil2:
+Fixing typos.
+修改拼写错误
+
+:hankey:
+Writing bad code that needs to be improved.
+编写需要改进的坏代码
+
+:rewind:
+Reverting changes.
+撤销修改
+
+:twisted_rightwards_arrows:
+Merging branches.
+合并分支
+
+:package:
+Updating compiled files or packages.
+更新编译的文件或包
+
+:alien:
+Updating code due to external API changes.
+由于外部API更改而更新代码
+
+:truck:
+Moving or renaming files.
+移动或重命名文件
+
+:page_facing_up:
+Adding or updating license.
+添加或更新许可证
+
+:boom:
+Introducing breaking changes.
+引入突破性变化
+
+:bento:
+Adding or updating assets.
+添加或更新资源文件
+
+:ok_hand:
+Updating code due to code review changes.
+由于代码审查更改而更新代码
+
+:wheelchair:
+Improving accessibility.
+提高可访问性
+
+:bulb:
+Documenting source code.
+记录源代码
+
+:beers:
+Writing code drunkenly.
+
+:speech_balloon:
+Updating text and literals.
+更新文本和文字
+
+:card_file_box:
+Performing database related changes.
+执行与数据库相关的更改
+
+:loud_sound:
+Adding logs.
+添加日志
+
+:mute:
+Removing logs.
+删除日志
+
+:busts_in_silhouette:
+Adding contributor(s).
+添加贡献者
+
+:children_crossing:
+Improving user experience / usability.
+提高用户体验/可用性
+
+:building_construction:
+Making architectural changes.
+进行架构改变
+
+:iphone:
+Working on responsive design.
+响应设计的工作
+
+:clown_face:
+Mocking things.
+模拟事务
+
+:egg:
+Adding an easter egg.
+
+:see_no_evil:
+Adding or updating a .gitignore file
+添加或更新.GIGNGORE文件
+
+:camera_flash:
+Adding or updating snapshots
+添加或更新快照
+
 ##人物
  :bowtie:
  :smile:
